@@ -1,0 +1,115 @@
+{
+    "gpus": [
+        {
+            "name": "NVIDIA RTX 4060",
+            "power": 115,
+            "length": 240,
+            "price_new": 4190,
+            "price_used": 3450
+        },
+        {
+            "name": "NVIDIA RTX 4070",
+            "power": 200,
+            "length": 285,
+            "price_new": 6290,
+            "price_used": 5240
+        },
+        {
+            "name": "AMD RX 7900 XT",
+            "power": 300,
+            "length": 287,
+            "price_new": 9440,
+            "price_used": 7865
+        }
+    ],
+    "motherboards": [
+        {
+            "name": "MSI PRO Z790-P",
+            "socket": "LGA1700",
+            "form_factor": "ATX",
+            "price_new": 2090,
+            "price_used": 1670
+        },
+        {
+            "name": "ASUS ROG STRIX B650-F",
+            "socket": "AM5",
+            "form_factor": "ATX",
+            "price_new": 2615,
+            "price_used": 2090
+        }
+    ],
+    "cpus": [
+        {
+            "name": "Intel Core i5-13600K",
+            "socket": "LGA1700",
+            "power": 125,
+            "price_new": 3350,
+            "price_used": 2720
+        },
+        {
+            "name": "AMD Ryzen 7 7700X",
+            "socket": "AM5",
+            "power": 105,
+            "price_new": 4190,
+            "price_used": 3455
+        }
+    ],
+    "ram": [
+        {
+            "name": "Corsair Vengeance 32GB DDR5",
+            "type": "DDR5",
+            "price_new": 1670,
+            "price_used": 1355
+        },
+        {
+            "name": "G.Skill Ripjaws 32GB DDR5",
+            "type": "DDR5",
+            "price_new": 1565,
+            "price_used": 1250
+        }
+    ],
+    "psus": [
+        {
+            "name": "Corsair RM850x",
+            "watts": 850,
+            "price_new": 1565,
+            "price_used": 1040
+        },
+        {
+            "name": "EVGA SuperNOVA 1000 G6",
+            "watts": 1000,
+            "price_new": 2090,
+            "price_used": 1565
+        }
+    ],
+    "cases": [
+        {
+            "name": "Fractal Design Meshify 2",
+            "max_gpu_length": 315,
+            "form_factor": ["ATX", "mATX"],
+            "price_new": 1565,
+            "price_used": 1040
+        },
+        {
+            "name": "Lian Li O11 Dynamic",
+            "max_gpu_length": 420,
+            "form_factor": ["ATX", "mATX"],
+            "price_new": 1775,
+            "price_used": 1355
+        }
+    ],
+    "coolers": [
+        {
+            "name": "NZXT Kraken X53",
+            "type": "AIO",
+            "price_new": 1355,
+            "price_used": 935
+        },
+        {
+            "name": "Noctua NH-D15",
+            "type": "Air",
+            "price_new": 1040,
+            "price_used": 725
+        }
+    ]
+}

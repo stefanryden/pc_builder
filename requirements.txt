@@ -1,0 +1,21 @@
+# Webbapplikationsramverk för användargränssnittet
+streamlit>=1.40.0
+
+# Datavisualisering för prisgrafer och jämförelser
+plotly>=5.18.0
+
+# Datahantering och analys
+pandas>=2.1.0
+
+# HTTP-förfrågningar för Tradera-integration
+requests>=2.31.0
+
+# JSON-hantering för komponentdata
+json5>=0.9.14
+
+# Interaktiva diagram och visualiseringar
+plotly-express>=0.4.1
+pandas
+plotly
+plotly-express
+streamlit
